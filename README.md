@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src= "![choong-deng-xiang--WXQm_NTK0U-unsplash](https://github.com/ELopez2657/ELopez2657/assets/146747798/b0a5aae6-38c3-43a7-a583-878dde1d0481)
-" width="800"/>
+  <img src= "perfil.png" width="800"/>
 </div>
 
 <div id="badges" align="center">
