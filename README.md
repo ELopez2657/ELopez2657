@@ -57,7 +57,6 @@ Immersed in the World of Data and eager to explore the Universe of Data Analysis
 </div>
 
 
-# 👋 Bye
 
 
 
